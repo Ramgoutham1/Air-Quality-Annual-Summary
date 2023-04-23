@@ -15,3 +15,16 @@ This could involve looking at data on hospitalizations or mortality rates relate
 
 In addition to these analyses, the dataset could also be used to explore other questions related to air quality, such as the effectiveness of air quality regulations or the impact of weather patterns on pollution levels. 
 Overall, the Air Quality Annual Summary dataset provides a valuable resource for researchers and policymakers interested in understanding and improving air quality in the United States.
+
+2)Details on what your model will predict.
+
+ The Air Quality Annual Summary dataset provides information about the air quality in various regions of the United States. Specifically, the dataset contains annual summary data for criteria air pollutants, which are regulated by the Clean Air Act.
+ 
+ The dataset includes information on the maximum, average, and median concentrations of each pollutant, as well as the number of days on which the pollutant exceeded the National Ambient Air Quality Standards.
+ 
+ For my model I used air_quality_model dataset.
+ 
+ my air_quality_model predicts the "Parameter Occurence Code" 
+ 
+ 
+ 
